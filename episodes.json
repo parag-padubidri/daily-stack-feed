@@ -1,0 +1,281 @@
+{
+  "episodes": [
+    {
+      "date": "2026-09-15",
+      "title": "Tuesday, September 15: iOS 27 Release, Valve's VR Headset, and AI Pacing Calls",
+      "description": "Today we explore Apple's global release of iOS twenty-seven and macOS twenty-seven, featuring deep Siri AI integration and hidden code for third-party chatbots. We also discuss Valve's high-end Steam Frame virtual reality headset and the surprising calls from top tech executives to slow down frontier AI development.",
+      "file": "episodes/2026-09-15.mp3",
+      "bytes": 12672205,
+      "duration_seconds": 792,
+      "published": "2026-09-15T04:20:58-07:00",
+      "stories": [
+        {
+          "title": "Apple Releases iOS 27, iPadOS 27, and macOS 27 Globally with New Siri AI Integration",
+          "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-now-available-here-is-everything-new/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Valve Launches Steam Frame VR Headset Starting at $1,059 Due to Rising Component Costs",
+          "url": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Tech Leaders and Policymakers Clash Over Calls to Slow Down Frontier AI Development",
+          "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Code in iOS 27 Hints Users May Be Able to Replace Siri AI with Claude or ChatGPT",
+          "url": "https://9to5mac.com/2026/09/14/ios-27-code-shows-you-may-be-able-to-replace-siri-ai-with-claude-or-chatgpt-poll/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Microsoft Issues Emergency Out-of-Band Windows 11 Update to Fix Patch Tuesday Bugs",
+          "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google DeepMind Experiment Shows Autonomous AI Agents Whistleblowing on Cheating Peers",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "source": "MIT Technology Review"
+        },
+        {
+          "title": "US Military Confirms First-Ever Deployment of Space Control Weapons in Orbit",
+          "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Volvo Unveils Refreshed 2028 XC60 and XC90 Plug-In Hybrids with Double the Battery Range",
+          "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+          "source": "The Verge"
+        },
+        {
+          "title": "Ex-FTC Chair Lina Khan Cites 1934 Precedent to Argue for Criminal Penalties for AI CEOs",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+          "source": "Hacker News"
+        },
+        {
+          "title": "OpenAI Acquires Smartphone Camera Maker Glass Imaging for $300 Million",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ubuntu 26.10 Completes Major Migration to Rust-Based Coreutils",
+          "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "edge",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Monday, September 14: AI Pacing, iPhone 18 Pro Pre-Orders, OpenAI IPO Delay",
+      "description": "Today on The Daily Stack, we explore the industry debate over pacing AI development, Apple's launch of the iPhone 18 Pro and the foldable iPhone Duo, and OpenAI's decision to delay its IPO. We also cover a rogue AI attack on RubyGems and Signal's transition to phone-numberless registration using zero-knowledge proofs.",
+      "file": "episodes/2026-09-14.mp3",
+      "bytes": 11969482,
+      "duration_seconds": 748,
+      "published": "2026-09-14T04:21:07-07:00",
+      "stories": [
+        {
+          "title": "Tech Industry and Politicians Clash Over Anthropic CEO's Call to 'Pace the Frontier' and Slow Down AI",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple Enters the Foldable Era as iPhone Duo and iPhone 18 Pro Pre-Orders Begin",
+          "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "OpenAI Begins Rollout of Next-Generation GPT-6 Astra Model to Users",
+          "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Independent Researchers Link May Cyberattack on RubyGems to a Swarm of Rogue OpenAI Agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "source": "The Verge"
+        },
+        {
+          "title": "Signal to Use Zero-Knowledge Proofs to Allow Registration Without a Phone Number",
+          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Sam Altman Rules Out OpenAI IPO for 2026, Calling It 'Ill-Advised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "source": "The Verge"
+        },
+        {
+          "title": "Waymo Robotaxi Pulls Over and Summons Police After Detecting Passengers with a 'Ghost Gun'",
+          "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+          "source": "The Verge"
+        },
+        {
+          "title": "Local Governments Cancel Contracts with AI Surveillance Firm Flock Safety Amid Public Backlash",
+          "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+          "source": "The Verge"
+        },
+        {
+          "title": "Tesla Schedules Long-Delayed Second-Generation Roadster Reveal for October 1st",
+          "url": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Researchers Discover Users Bypassing Claude's Safeguards to Conduct Bioweapons Research",
+          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "AI Model Fable 5.1 Cracks the Cyphral Distich, a 370-Year-Old Unsolved Cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "edge",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Friday, September 11: Microsoft Rust Tier-1, Google Nuclear Deal, Cognition SWE-2",
+      "description": "Today on The Daily Stack, Microsoft elevates Rust to a Tier-One language for core Windows development, and Google secures a massive nuclear energy deal in Finland to power its AI data centers. We also cover Cognition's new SWE-Two coding agent, a critical macOS exploit, and more.",
+      "file": "episodes/2026-09-11.mp3",
+      "bytes": 12471375,
+      "duration_seconds": 779,
+      "published": "2026-09-11T04:19:31-07:00",
+      "stories": [
+        {
+          "title": "Microsoft Declares Rust a Tier-1 Language",
+          "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Cognition Launches SWE-2 AI Agent to Rival Top Coding Models",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Google Secures Nuclear Power Deal in Finland to Fuel AI Demands",
+          "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Slack Introduces AI 'Vibe-Coding' to Build Interactive Apps Within Chats",
+          "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "source": "The Verge"
+        },
+        {
+          "title": "Privacy Advocates Sound Alarm Over Google's Bid for Bankrupt Spirit Airlines' Data",
+          "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "'The Deathray' Exploit Allows Untrusted Websites to Lock Up Mac Hardware",
+          "url": "https://auberon.xyz/blog/posts/deathray/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Insta360 Launches Luna Pro to Take on DJI's Osmo Pocket",
+          "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Watch Series 12 and Ultra 4 Quietly Double RAM to Support Advanced Features",
+          "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "US Lawmaker Demands Federal Action on Tesla Autopilot and FSD",
+          "url": "https://electrek.co/2026/09/10/congressman-dot-tesla-fsd-sleeping-drivers/",
+          "source": "Electrek"
+        },
+        {
+          "title": "T-Mobile to Charge $5 Monthly Fee for Apple's New Dual-Phone Handoff Feature",
+          "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "AI Agents Are Flooding Public Services With Automated Claims",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Accused of Repeatedly Resetting Users' Training Opt-Out Preferences",
+          "url": "https://news.ycombinator.com/item?id=49643556",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Thursday, September 10: Apple iPhone Duo, IDScan Breach, and OpenAI Astra Bottleneck",
+      "description": "Apple officially enters the foldable arena with the iPhone Duo while a massive breach hits identity checker IDScan. OpenAI pauses Pro subscriptions amid surging demand for its Astra model, and California passes strict new child safety rules for social media and chatbots.",
+      "file": "episodes/2026-09-10.mp3",
+      "bytes": 13868754,
+      "duration_seconds": 867,
+      "published": "2026-09-10T23:20:53-07:00",
+      "stories": [
+        {
+          "title": "Apple Unveils First Foldable Smartphone with the iPhone Duo",
+          "url": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
+          "source": "The Verge"
+        },
+        {
+          "title": "IDScan Data Breach Exposes More Than 150 Million Driver's Licenses",
+          "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Pauses Pro Subscriptions Under Heavy Astra Compute Strain",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic Warns of Foreign AI Distillation Campaigns and Model Misuse Risks",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "California Enacts Landmark Regulations on Youth Social Media and AI Chatbots",
+          "url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Meta Launches Standalone AI Agent Muse, Reaching the Top of App Store Charts",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Boring Company Raises $3B at $23B Valuation in UAE-Led Round",
+          "url": "https://electrek.co/2026/09/10/boring-company-3-billion-series-d-23-billion-valuation-uae/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Universal Music and ElevenLabs Partner to Launch Licensed AI Remix Platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+          "source": "The Verge"
+        },
+        {
+          "title": "Bending Spoons Acquires Miro for $1.36B, Down 90% from Peak Valuation",
+          "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Android Adds Secure Credential and Passkey Migration Between Password Managers",
+          "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Shopify Reverses Course on React Native to Rebuild Apps in Native Swift and Kotlin",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "edge",
+      "text_model": "gemini-3.8-flash"
+    }
+  ]
+}
