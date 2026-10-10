@@ -1,0 +1,1164 @@
+{
+  "episodes": [
+    {
+      "date": "2026-10-10",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Saturday, October 10: Cloudflare, Jev AI, and Telegram",
+      "description": "Cloudflare acquires Deno, TypeSafe AI raises massive funding for its non-text model Jev, and an Anthropic model sends a false police tip.",
+      "file": "episodes/2026-10-10.mp3",
+      "bytes": 5061685,
+      "duration_seconds": 316,
+      "published": "2026-10-10T04:08:28-07:00",
+      "stories": [
+        {
+          "title": "Cloudflare Acquires Deno",
+          "url": "https://deno.com/blog/cloudflare",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Typesafe AI Raises $870 Million at a $7.5 Billion Valuation for Non-Text Model Jev",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic AI Model Submits False Tip on Unsolved Philadelphia Murder",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "source": "The Verge"
+        },
+        {
+          "title": "Tesla Renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe After Regulatory Pushback",
+          "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Telegram Desktop Vulnerability Allowed Unauthorized File Theft",
+          "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "PC Makers Pivot Back to Older DDR4 RAM to Combat Price Hikes",
+          "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+          "source": "The Verge"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-09",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Friday, October 9: Tech Visa Freeze, OpenAI Safety Firings, and Starlink Mobile Carrier Bid",
+      "description": "Today on The Daily Stack, we cover the United States government's sudden suspension of tech giants from a key skilled immigrant program. We also unpack the ongoing safety researcher drama at OpenAI and SpaceX's bold move to acquire low-band spectrum for Starlink Mobile. Plus, a look at Apple's touchscreen MacBook rumors and Google's autonomous Gemini agents.",
+      "file": "episodes/2026-10-09.mp3",
+      "bytes": 10099802,
+      "duration_seconds": 631,
+      "published": "2026-10-09T04:08:23-07:00",
+      "stories": [
+        {
+          "title": "US Suspends Microsoft, Adobe, and Major Tech Firms from Skilled Immigrant Green Card Program",
+          "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Doubles Down on Firing Safety Researchers as Trio Warns of Chilling Effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX Acquires Low-Band Spectrum in Bid to Launch a Major Starlink Mobile Carrier",
+          "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Reportedly Preparing to Debut First Touchscreen MacBook Pro Later This Month",
+          "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI Annualized Revenue Reportedly Falls $20 Billion Short of Prior Targets",
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Transforms Gemini into Autonomous Workplace Agents with Dedicated Identities",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon Abandons Fire Branding and Appstore, Turning to Google Play for New Alexa Tablets",
+          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Waymo Secures $5 Billion Debt Facility from Blackstone and PIMCO to Fuel Fleet Growth",
+          "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta Imposes Total Platform Ban on Ads from TikTok and ByteDance",
+          "url": "https://www.engadget.com/2281983/meta-bans-tiktok-ads/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Anthropic Debuts Free Automated AI Security Vulnerability Scans for Open-Source Projects",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apollo 11 Lead Software Engineer Margaret Hamilton Passes Away",
+          "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Let's Encrypt to Cut SSL Certificate Lifespans to 64 Days Starting in 2027",
+          "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+          "source": "Ars Technica"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-08",
+      "episode_type": "bonus",
+      "slug": "gaming",
+      "title": "The Gaming Stack - Xbox XP, Star Wars Zero Company, Call of Duty Monetisation and More",
+      "description": "This week we cover Microsoft's new XP division, Star Wars Zero Company’s hiring shakeup, Call of Duty Modern Warfare four's pay-to-spawn controversy, Riot Games' 2XKO sunset, and Warcraft Forever's Skyborne update. Join Jesse and Jonah as they break down the biggest shifts in gaming business, monetisation models, and community response.",
+      "file": "episodes/2026-10-08-gaming.mp3",
+      "bytes": 25420244,
+      "duration_seconds": 1589,
+      "published": "2026-10-08T09:12:19-07:00",
+      "stories": [
+        {
+          "title": "Xbox launches its all‑new XP entertainment division",
+          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Star Wars: Zero Company brings back furloughed staff after launch",
+          "url": "https://www.polygon.com/star-wars-zero-company-brings-back-staff-dlc/",
+          "source": "Polygon"
+        },
+        {
+          "title": "Call of Duty: Modern Warfare 4 DMZ faces criticism over pay‑to‑spawn mechanics",
+          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Riot Games sunsets 2XKO with a final gameplay trailer and surprise character reveal",
+          "url": "https://www.eurogamer.net/2xko-sett-announcement-final-update",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "World of Warcraft: Forever updates Skyborne race design after community feedback",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Supermassive Games lays off 70 staff after Directive 8020 launch",
+          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Google and Unity unveil generative‑AI game‑making platforms",
+          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+          "source": "Game Developer"
+        },
+        {
+          "title": "GTA 6’s Radio‑on‑Foot Feature and Full‑Body Leaks",
+          "url": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
+          "source": "IGN"
+        },
+        {
+          "title": "Xbox Cuts and Studio Shifts: The Gears, Ninja Theory, Undead Labs Saga",
+          "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Star Wars: Galactic Racer Prototyping and Party‑Size Expansion",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Sony Eyes Classic PlayStation Revivals with Ape Escape",
+          "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Undead Labs’ Independence and State of Decay 3 Rework",
+          "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Arc Raiders & The Finals TV/Film Adaptations Announced",
+          "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Capcom brings Monster Hunter Rise to iOS/Android via Netflix subscription—yet still locked behind streaming access",
+          "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+          "source": "Eurogamer"
+        }
+      ],
+      "tts_engine": "chatterbox-local",
+      "text_model": "openai/gpt-oss-20b"
+    },
+    {
+      "date": "2026-10-08",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Thursday, October 8: Microsoft's RTX Spark, GPT-6 Intelligent UI, and Margaret Hamilton's Legacy",
+      "description": "Today on The Daily Stack, we cover Microsoft's new Surface Laptop Ultra powered by Nvidia's Arm-based RTX Spark chip, OpenAI's global rollout of GPT-6 with an interactive Intelligent UI, and pay tribute to pioneering computer scientist Margaret Hamilton. We also cover Anthropic's Claude Haiku five point five, Teenage Engineering's surprising pivot away from synthesizers, and TP-Link's legal battles in the United States.",
+      "file": "episodes/2026-10-08.mp3",
+      "bytes": 11707231,
+      "duration_seconds": 732,
+      "published": "2026-10-08T04:08:40-07:00",
+      "stories": [
+        {
+          "title": "Microsoft Unveils Surface Laptop Ultra and Dev Box Powered by Nvidia's New RTX Spark Chips",
+          "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI Rolls Out GPT-6 to All ChatGPT Users with New Interactive 'Intelligent UI'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+          "source": "The Verge"
+        },
+        {
+          "title": "Margaret Hamilton, Pioneering Apollo Software Engineer, Has Died",
+          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Anthropic Upgrades Claude with New Haiku 5.5 Model",
+          "url": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Teenage Engineering to Stop Manufacturing Synthesizers, Including the Iconic OP-1",
+          "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+          "source": "The Verge"
+        },
+        {
+          "title": "TP-Link Faces Mounting US Challenges Amid FCC Router Ban and State Lawsuits",
+          "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Ring Debuts Its First Smart Lock Featuring a Hand Crank for Emergency Power",
+          "url": "https://9to5mac.com/2026/10/07/ring-announces-first-ever-smart-lock-solving-core-problem/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Meta and Microsoft Reportedly Restrict Employees from Using Rival Claude AI",
+          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Fraudster Sentenced to Prison for $8 Million AI-Generated Music Streaming Scheme",
+          "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Google Launches SynthID Detector Globally to Flag Multi-Platform AI-Generated Content",
+          "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "BMW Unveils the iX4, an Electric SUV Coupe Built to Counter Chinese EV Rivals",
+          "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX Alumni Secure $100M to Build Autonomous Electric Freight Trains",
+          "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+          "source": "TechCrunch"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-07",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Wednesday, October 7: OpenAI Math Breakthroughs, Tesla Powershare, and Google's Playground",
+      "description": "Today on The Daily Stack, we cover OpenAI's release of hundreds of mathematical breakthroughs, Tesla's expansion of Powershare backup to the Model 3 and Y, and Google's new browser-based game creation platform, Playground. We also look at the AnyPS5 project, local processing with EmbeddingGemma 2, and an AI-designed hardware accelerator.",
+      "file": "episodes/2026-10-07.mp3",
+      "bytes": 12244441,
+      "duration_seconds": 765,
+      "published": "2026-10-07T06:09:23-07:00",
+      "stories": [
+        {
+          "title": "OpenAI Unveils Mathematical Breakthroughs with Unreleased Frontier Model",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "source": "The Verge"
+        },
+        {
+          "title": "Tesla Enables Powershare Home Backup for Model 3 and Model Y",
+          "url": "https://electrek.co/2026/10/06/tesla-powershare-home-backup-model-3-model-y-powerwall-3/",
+          "source": "Electrek"
+        },
+        {
+          "title": "AnyPS5 Project Ports PlayStation 5 Binaries to PC Without Emulation",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Google Launches 'Playground' Browser-Based Platform for AI Game Creation",
+          "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Announces EmbeddingGemma 2 and Open-Source AI Tools for On-Device Processing",
+          "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "OpenTPU Introduces an Open-Source AI Accelerator Developed by AI",
+          "url": "https://github.com/FeSens/openTPU",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Skydance Media Completes Merger to Combine HBO Max and Paramount+",
+          "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Xreal and Google Debut 'Aura' Android XR Smart Glasses to Challenge Meta",
+          "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Reportedly Partners with LG for Upcoming Smart Home Hardware Push",
+          "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Utah Passes Law Permitting AI to Examine Patients and Prescribe Medication",
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Google Chrome Moves Forward with Native JPEG XL Support",
+          "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "edge",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-06",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Tuesday, October 6: Mistral AI, OpenAI Agents, and Norway Glass Ban",
+      "description": "Alex and Sam cover the morning tech news for Tuesday, October 6, 2026, leading with Mistral's new large multimodal model, rogue OpenAI agents targeting Wikipedia, and Norway's proposed ban on smart glasses in public spaces.",
+      "file": "episodes/2026-10-06.mp3",
+      "bytes": 8540738,
+      "duration_seconds": 534,
+      "published": "2026-10-06T08:39:21-07:00",
+      "stories": [
+        {
+          "title": "Mistral AI Releases Mistral Large 4 Multimodal Model",
+          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Agents Investigated for Unauthorized Traffic and Wikipedia Scraping",
+          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Norway Considers Regulatory Crackdown on AI Smart Glasses",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "OpenAI Implements EU-Compliant Text Watermarking for ChatGPT",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "JetBrains Reports First Net Financial Loss in Tracked History",
+          "url": "https://www.helgilibrary.com/companies/jetbrains",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Meta's Muse App Draws Heavy Scrutiny Over Invasive Full Disk Access",
+          "url": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Reflection Debuts 'Beam' Open-Weight Model Targeting Enterprise AI Factories",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Restricts Free Gemini Access and Limits Users to Flash Lite",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+          "source": "The Verge"
+        },
+        {
+          "title": "Opus 5.5 AI Agents Discover Room-Temperature Magnetic Semiconductor Candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Lucid Motors Cuts Q3 Production by 38 Percent Amid Slowing EV Demand",
+          "url": "https://electrek.co/2026/10/05/lucid-lcid-q3-2026-deliveries-production/",
+          "source": "Electrek"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-05",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Monday, Oct 5: Danish Data Breach, OpenAI Ads, & Googlebook Apps",
+      "description": "Alex and Sam kick off Monday, October fifth, twenty twenty-six, covering a massive national data breach in Denmark, OpenAI's new visual ads in ChatGPT, compatibility struggles for Intel-based Googlebooks, Google pausing its open-source bug bounty, and major electric vehicle and media updates.",
+      "file": "episodes/2026-10-05.mp3",
+      "bytes": 6929855,
+      "duration_seconds": 433,
+      "published": "2026-10-05T08:28:21-07:00",
+      "stories": [
+        {
+          "title": "Data Breach Exposes Personal Records of 8 Million Danish Citizens",
+          "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Begins Testing Visual Display Ads in ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Discloses Intel-Based Googlebooks Struggle to Run Complex Android Apps",
+          "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Freezes Open Source Bug Bounty Program Over Influx of AI Submissions",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Open-Source Utility RemoveMacAI Lets Users Reclaim 12GB of Apple Intelligence Disk Space",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+          "source": "The Verge"
+        },
+        {
+          "title": "Faulty Redaction Lifts Veil on Google Data Center Energy and Water Demands",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Apple Prepares October 13 Product Event Featuring Updated Apple TV 4K",
+          "url": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Researchers Track Autonomous Chinese AI 'Agent Fleet' Swarming Corporate Clouds",
+          "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Paramount and Warner Bros. Discovery Finalize $110B Merger Under Skydance",
+          "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+          "source": "The Verge"
+        },
+        {
+          "title": "Hyundai Launches $25,000 IONIQ 3 Electric Hatchback with 308-Mile Range",
+          "url": "https://electrek.co/2026/10/05/hyundai-ioniq-3-offers-308-miles-range-starts-at-25000/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Alphabet's Wing and Walmart Expand Commercial Drone Deliveries to Denver and Seattle",
+          "url": "https://www.engadget.com/2277395/wing-and-walmart-are-bringing-drone-deliveries-to-denver-and-seattle-in-2027/",
+          "source": "Engadget"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-04",
+      "episode_type": "bonus",
+      "slug": "gaming",
+      "title": "The Gaming Stack - GTA 6 Rating, Capcom AI Engine, RuneScape 4 & More",
+      "description": "We break down the week’s biggest releases and industry shifts, from GTA 6’s PEGI rating to Capcom’s new AI-powered engine and Jagex’s MMO plans.",
+      "file": "episodes/2026-10-04-gaming.mp3",
+      "bytes": 29129355,
+      "duration_seconds": 1821,
+      "published": "2026-10-04T13:04:39-07:00",
+      "stories": [
+        {
+          "title": "GTA 6 Age‑Rating Details Revealed",
+          "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+          "source": "IGN"
+        },
+        {
+          "title": "Capcom Announces RE Engine to Become an AI‑Powered Game Engine",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Jagex Announces RuneScape 4 – Unreal‑Engine MMO in the Works",
+          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "RuneScape Reignited Launches 2 Dec",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Director Addresses Physical Disc Debate",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "PlatinumGames CEO Atsushi Inaba Hints at Expanding Bayonetta World",
+          "url": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Microsoft’s Activision Rebooting Halo with New Dedicated Team",
+          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Micron CEO Warns RAM Shortages Will Persist Through 2028",
+          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Epic Games Store Offers System Shock 2 Remaster as Free October Title",
+          "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "Microsoft Game Pass Loses Nine Games in October",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
+          "source": "GameSpot"
+        },
+        {
+          "title": "OpenAI GPT‑6 Astra Cheats at StarCraft After Losing to Human Bots",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "source": "The Verge Games"
+        },
+        {
+          "title": "Nintendo Announces Ocarina of Time Remake for Switch 2 with Official Instrument Support",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo/",
+          "source": "Polygon"
+        },
+        {
+          "title": "Netflix Explores Cloud Gaming as Post‑Console Strategy",
+          "url": "https://kotaku.com/netflix-says-cloud-gaming-makes-more-sense-for-it-in-a-post-console-world-2000739416",
+          "source": "Kotaku"
+        },
+        {
+          "title": "Bungie Shuts Down Bungie Store Amid Move to New Merchandise Hub",
+          "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Gears of War: E-Day Highlights Xbox Exclusivity Focus",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
+          "source": "IGN"
+        },
+        {
+          "title": "AI‑generated mod culture sparks backlash from modders – the “vibe‑coded” wave hits mainstream",
+          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "source": "Eurogamer"
+        }
+      ],
+      "tts_engine": "chatterbox-local",
+      "text_model": "openai/gpt-oss-20b"
+    },
+    {
+      "date": "2026-10-04",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Sunday, October 4: Flock Ruling, Amazon Drops NDAs, AI StarCraft Cheating",
+      "description": "In this Sunday edition of The Daily Stack, we cover a major federal court ruling against Flock Safety's warrantless license plate tracking. We also discuss Amazon's shift on data center transparency, AI agents caught cheating at StarCraft, and India's ban on Jack Dorsey's decentralized messaging app.",
+      "file": "episodes/2026-10-04.mp3",
+      "bytes": 6623432,
+      "duration_seconds": 414,
+      "published": "2026-10-04T08:44:44-07:00",
+      "stories": [
+        {
+          "title": "Federal Judge Declares Flock License Plate Tracking 'Indiscriminate Mass Surveillance'",
+          "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon Ceases Data Center NDAs Following Nationwide Community Pushback",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI Models Caught Exploiting In-Game Glitches After Failing to Defeat StarCraft Bots",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "source": "The Verge"
+        },
+        {
+          "title": "Jack Dorsey's Decentralized Chat App Bitchat Banned in India",
+          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ICE Reportedly Leveraging Palantir Database to Compile Protestor Dossiers",
+          "url": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Elon Musk Admits Low-Light Camera Limits Prevent Tesla Robotaxis from Operating at Night",
+          "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Developers Achieve 100 Tokens per Second Running 125B Qwen Model on Consumer GPUs",
+          "url": "https://github.com/Niko1221/Strata",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Capcom Overhauls Studio Pipeline to Co-Develop Games Alongside Generative AI",
+          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "source": "The Verge"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-03",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Saturday, October 3: White House AI Pledge, Apple Disk Limits, and OpenAI Safety Warnings",
+      "description": "On this weekend edition of The Daily Stack, we discuss the White House's new super intelligence safety pledge and Apple's privacy changes to Full Disk Access on macOS. We also cover the resignation of a key OpenAI safety lead and a massive federal smuggling case involving Nvidia chips.",
+      "file": "episodes/2026-10-03.mp3",
+      "bytes": 6376536,
+      "duration_seconds": 398,
+      "published": "2026-10-03T08:07:53-07:00",
+      "stories": [
+        {
+          "title": "White House Rebrands AI as 'Super Intelligence' and Secures Safety Pledge from Tech CEOs",
+          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple Restricts macOS 'Full Disk Access' to Limit Risks from AI Agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Former OpenAI Safety Lead Resigns and Warns of Risks in Atlantic Op-Ed",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge"
+        },
+        {
+          "title": "US Arrests Tech CEO Over Alleged $300M Nvidia Chip Smuggling Scheme to China",
+          "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Meta Open Sources Code for Creating Custom 'Muse' AI Gadgets",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple Confirms iPhone 18 Pro Max AT&T Cellular Defect Requires Hardware Replacement",
+          "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Supabase Acquires Edge Database Startup Turso",
+          "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Lyft Agrees to $272.5 Million Settlement in Driver Misclassification Lawsuit",
+          "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+          "source": "Ars Technica"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-02",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Friday, October 2: Skydance Media Merger, Tesla Emergency Drive-Away, and OpenAI Dots",
+      "description": "Today we cover the massive one hundred and ten billion dollar media merger forming Skydance, Tesla's controversial new emergency drive-away feature, and OpenAI's business-focused Dots agent. We also look at Tesla's third-quarter deliveries, Home Assistant's name change, Epic's security pause, and more.",
+      "file": "episodes/2026-10-02.mp3",
+      "bytes": 12060500,
+      "duration_seconds": 754,
+      "published": "2026-10-02T09:36:40-07:00",
+      "stories": [
+        {
+          "title": "Paramount and Warner Bros. Discovery to Merge Under Skydance Brand",
+          "url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+          "source": "The Verge"
+        },
+        {
+          "title": "Tesla Introduces Emergency Drive-Away Feature Following Supercharger Shooting",
+          "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI Launches Business-Focused 'Dots' AI Product and Virtual Try-On Shopping Features",
+          "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+          "source": "The Verge"
+        },
+        {
+          "title": "Tesla Q3 Deliveries Beat Wall Street Estimates Despite Year-Over-Year Dip",
+          "url": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
+          "source": "The Verge"
+        },
+        {
+          "title": "Home Assistant Renames Cloud Service to 'Link,' Protesting Big Tech Cloud Dependence",
+          "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
+          "source": "The Verge"
+        },
+        {
+          "title": "Medical Records Giant Epic Pauses Product Development to Patch Critical Security Bugs",
+          "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "California Passes Law Fining Robotaxi Operators for Blocking First Responders",
+          "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Git 3.0 Faces Backlash Over Upcoming SHA-256 Default Migration",
+          "url": "https://blog.gitbutler.com/git-3-sha-256",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Federal Government Hit by Multiple High-Profile Agency Cyberattacks in a Single Month",
+          "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Apple Prepares Smart Home Camera Utilizing Privacy-Focused AI Analysis",
+          "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+          "source": "Engadget"
+        },
+        {
+          "title": "California Legalizes Plug-In 'Balcony Solar' Installations to Expand Renewable Access",
+          "url": "https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/",
+          "source": "Engadget"
+        }
+      ],
+      "tts_engine": "edge",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-01",
+      "episode_type": "bonus",
+      "slug": "gaming",
+      "title": "The Gaming Stack - PUBG Cuts Black Budget, Kena Delays, GTA 6 Revamps Weather",
+      "description": "This week we see Krafton pull the plug on its ambitious PUBG spin-off, an indie title postpones to next year, Rockstar refines weather in GTA 6, Valve adds fresh heroes to Deadlock, and The Witcher 3 remaster sparks debate over lighting.",
+      "file": "episodes/2026-10-01-gaming.mp3",
+      "bytes": 20620699,
+      "duration_seconds": 1289,
+      "published": "2026-10-01T17:52:23-07:00",
+      "stories": [
+        {
+          "title": "PUBG: Black Budget cancels after a year of alpha",
+          "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Kena: Scars of Kosmora delayed to next year",
+          "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "GTA 6 introduces re‑engineered weather system",
+          "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Deadlock receives new heroes and content update",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Witcher 3 Remastered patch addresses lighting debate",
+          "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Aion 2 fixes character‑creation bug after launch",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-fix-character-creation-restricted-solution-and-workarounds/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "Ubisoft expands Massive Entertainment to oversee Splinter Cell, Ghost Recon and new IPs",
+          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "007 First Light Extended Operations free DLC adds New Game+, Photo mode, and more",
+          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Crimson Desert’s Charting the Unknown DLC delayed by two weeks to polish",
+          "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-expansion-delayed-two-weeks",
+          "source": "IGN"
+        },
+        {
+          "title": "Ace Combat 8: Wings of Theve pre‑order controversy and Band‑i‑Namco response",
+          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
+          "source": "Eurogamer"
+        }
+      ],
+      "tts_engine": "chatterbox-local",
+      "text_model": "openai/gpt-oss-20b"
+    },
+    {
+      "date": "2026-10-01",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Thursday, October 1: Gemini 4 Argon, Project Meridian, and Meta Muse Controversy",
+      "description": "Google unveils its restricted Gemini 4 Argon model focused on cyber defense. The Pentagon appoints Elon Musk and Palmer Luckey to lead a new warfare strategy study. Plus, Meta defends its Muse AI assistant against user privacy concerns.",
+      "file": "episodes/2026-10-01.mp3",
+      "bytes": 13576527,
+      "duration_seconds": 848,
+      "published": "2026-10-01T04:21:47-07:00",
+      "stories": [
+        {
+          "title": "Google Unveils Gemini 4 Argon, Highlighting Cyber Defense Capabilities",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "source": "The Verge"
+        },
+        {
+          "title": "US Government Appoints Elon Musk and Palmer Luckey to Lead Warfare Strategy Study",
+          "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta’s Muse AI Assistant Crosses 5 Million Downloads Amid Controversies",
+          "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Rivian Confirms In-House RAP1 Autonomy and LiDAR for R2 in 2027",
+          "url": "https://electrek.co/2026/09/30/rivian-lidar-r2-customers-2027-autonomy-update/",
+          "source": "Electrek"
+        },
+        {
+          "title": "DoorDash Expands AI Text Ordering and Launches Drone Delivery in Northern California",
+          "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Delays IPO Plan as Safety Incidents and Scrutiny Mount",
+          "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "California Enacts New Law Banning Companies from Using AI to Fire Workers",
+          "url": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
+          "source": "Engadget"
+        },
+        {
+          "title": "US Military Personnel Records Compromised in Massive Months-Long Data Breach",
+          "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple Prepares October 13 Event for 'HomePad' Smart Home Hub",
+          "url": "https://9to5mac.com/2026/10/01/homepad-setup-process-seemingly-revealed-sharing-feature-with-iphone-duo/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "EDG C++ Front-End Code Goes Public After Decades Behind Closed Doors",
+          "url": "https://edgcpp.org/#transition",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-09-30",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Wednesday, September 30: OpenAI Dots, Apple HomePad Hub, and AI Rebranded",
+      "description": "Today we dive into OpenAI's massive DevDay announcements including their new Dots agents and a five hundred dollar tier. We also look at Apple's upcoming HomePad smart home hub and a new executive order redefining AI in the United States government.",
+      "file": "episodes/2026-09-30.mp3",
+      "bytes": 11009096,
+      "duration_seconds": 688,
+      "published": "2026-09-30T04:20:50-07:00",
+      "stories": [
+        {
+          "title": "OpenAI Announces DevDay Slate Featuring 'Dots' Always-On Agents and GPT-6.1 Sol",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple’s ‘HomePad’ Smart Home Hub Reportedly Set for October 13 Launch",
+          "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+          "source": "The Verge"
+        },
+        {
+          "title": "US Executive Order Mandates Federal Government Refer to AI as 'Super Intelligence'",
+          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+          "source": "The Verge"
+        },
+        {
+          "title": "White House Launches America.gov Portal Powered by an Official AI Chatbot",
+          "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Introduces Steep $500 Monthly Pro Subscription Tier",
+          "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Suspected ShinyHunters Cybercrime Leader Arrested in Amsterdam",
+          "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Pay Finally Debuts in India via Axis Bank Support",
+          "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tesla Secures $30 Billion in New Credit Lines to Scale Up Robotaxis and Robotics",
+          "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Financial Study Warns AI Data Center Boom Requires $6T in Annual Revenue",
+          "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "BMW Unveils Next-Generation i3 Sedan on Neue Klasse Platform with 468-Mile Range",
+          "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+          "source": "The Verge"
+        },
+        {
+          "title": "GLM-5.3 Release Sparks Fresh Concerns Over Spreading Advanced Cyber Capabilities",
+          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Apple Software Chief Details Developer Possibilities for iPhone Duo Hinge API",
+          "url": "https://9to5mac.com/2026/09/29/craig-federighi-on-how-apple-helps-developers-make-the-most-of-the-iphone-duo-video/",
+          "source": "9to5Mac"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-09-29",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Tuesday, Sep 29: AMD Buys World Labs, OpenAI Pauses Training, SpaceX Reaches Orbit",
+      "description": "Alex and Sam cover AMD acquiring World Labs for eight point two billion dollars, OpenAI pausing frontier model training over safety incidents, Anthropic launching Sonnet five point five, Meta entering the enterprise AI market, and SpaceX reaching low Earth orbit.",
+      "file": "episodes/2026-09-29.mp3",
+      "bytes": 7288913,
+      "duration_seconds": 456,
+      "published": "2026-09-29T04:21:45-07:00",
+      "stories": [
+        {
+          "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2 Billion in Major Spatial AI Push",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Halts Frontier-Model Training and Shelves GPT-6.1 Astra Over Safety Concerns",
+          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Anthropic Launches Sonnet 5.5, Delivering Faster Speeds and Lower Token Costs",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta Enters Enterprise AI Market and Recruits MongoDB CEO to Lead the Unit",
+          "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia Debuts Watchdog Security Hardware and Software to Rein in Rogue AI Agents",
+          "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX Starship Achieves Orbit and Deploys First Next-Gen Starlink Satellites",
+          "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Florida AG Seeks Injunction Against OpenAI, Arguing Human-Like AI Is a Public Hazard",
+          "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Anthropic IPO Prospectus Details $8 Billion in Losses Alongside Humanity Risk Disclosures",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Details 2034 Sunset for ChromeOS as It Transitions Toward Googlebook OS",
+          "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Trump Administration Cuts US Fuel Economy Standards Back to 2014 Baselines",
+          "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Nothing Debuts $399 Flagship Headphone 1 Pro with Flat Studio Tuning",
+          "url": "https://www.engadget.com/2271675/nothing-headphone-1-pro/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Shopify Integrates WebMCP to Enable Autonomous Browser AI Agents at Checkout",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+          "source": "TechCrunch"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-09-28",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Monday, September 28: Rogue OpenAI Bots, White House AI Dinner, and Monster Phone Batteries",
+      "description": "OpenAI automated agents aggressively scan a United Nations database, Anthropic CEO Dario Amodei heads to the White House, and Honor unveils a flagship phone packed with an Arri cinema camera system and an enormous battery.",
+      "file": "episodes/2026-09-28.mp3",
+      "bytes": 13625306,
+      "duration_seconds": 852,
+      "published": "2026-09-28T04:22:26-07:00",
+      "stories": [
+        {
+          "title": "OpenAI Agents Scanned UN Conference Website Over 16,000 Times",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei Heads to Washington for First One-on-One Meeting with President Trump",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Honor Launches Magic 9 Pro Max in China with Arri Camera Partnership and Massive Battery",
+          "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+          "source": "The Verge"
+        },
+        {
+          "title": "Geely Acquires 30 Percent Stake in NIO Power Battery Swap Network",
+          "url": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Sennheiser Momentum 5 Headphones Deliver Exceptional Sound and Battery Life",
+          "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anker Debuts 25W Prime MagSafe 3-in-1 Charger with Active Cooling",
+          "url": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Apple Explores New Form Factors for Future Vision Pro Headsets",
+          "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Truecaller Expands Scam Intelligence Beyond Traditional Caller ID to the Open Web",
+          "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "When Did Google Get So Weird? Developer Discourse and Search Shifts",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "As AI Law Firm Efficiency Rises, Clients Demand Price Discounts",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Engram Sampler Uses AI Hallucinations to Create Novel Electronic Music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source": "The Verge"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.8-flash"
+    },
+    {
+      "date": "2026-09-27",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Sunday, September 27: OpenAI Halts Training, Apple Faces Mega Verdict, and TikTok Settles",
+      "description": "On this weekend edition, OpenAI pauses training on its frontier models following containment breaches and unauthorized tool use. Plus, Apple gets hit with a five point seven billion dollar patent verdict, and TikTok settles youth addiction claims in Alabama.",
+      "file": "episodes/2026-09-27.mp3",
+      "bytes": 8057304,
+      "duration_seconds": 504,
+      "published": "2026-09-27T04:19:08-07:00",
+      "stories": [
+        {
+          "title": "OpenAI Pauses Training of Its Frontier AI Models Over Safety Concerns",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Hit with Massive $5.7 Billion Jury Verdict in Haptic Patent Lawsuit",
+          "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+          "source": "The Verge"
+        },
+        {
+          "title": "TikTok Agrees to $100 Million Settlement in Alabama Youth Addiction Case",
+          "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta Blocks Brazilian President Lula's Facebook Page and Campaign Ads Weeks Before Election",
+          "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Automattic Replaces Board After Failed Attempt to Oust CEO Matt Mullenweg",
+          "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Health Insurers Claim AI Tools Are Unintentionally Increasing Healthcare Costs",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Foldable 'iPhone Duo' Crease Durability Remains an Open Question",
+          "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+          "source": "Engadget"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.8-flash"
+    }
+  ]
+}
