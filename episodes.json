@@ -1,0 +1,1069 @@
+{
+  "episodes": [
+    {
+      "date": "2026-11-07",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Saturday, November 7: Cybertruck, OpenAI, and Fox Roku Deal",
+      "description": "Today on The Daily Stack, Tesla winds down Cybertruck production for robotaxis, OpenAI secures a massive valuation, Fox finalizes its acquisition of Roku, and voters push back against AI data centers.",
+      "file": "episodes/2026-11-07.mp3",
+      "bytes": 5209529,
+      "duration_seconds": 326,
+      "published": "2026-11-07T03:08:45-08:00",
+      "stories": [
+        {
+          "title": "Tesla to Wind Down Cybertruck Production in 2027 to Focus on Cybercab",
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI Reaches $1.25 Trillion Valuation Following New $11 Billion Funding Round",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "source": "The Verge"
+        },
+        {
+          "title": "China Reportedly Recruited Executive to Spy on Nvidia CEO Jensen Huang",
+          "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "source": "The Verge"
+        },
+        {
+          "title": "Chainalysis Breach Exposes Credentials and Tokens for All Customers",
+          "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "US Voters Approve Restrictions on AI Data Center Expansion Across 40 Local Ballots",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Fox Finalizes $22 Billion Acquisition of Streaming Platform Roku",
+          "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google Eyewear Partner Teases November 12 Launch for Smart Glasses",
+          "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+          "source": "Engadget"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-11-06",
+      "episode_type": "bonus",
+      "slug": "gaming",
+      "title": "The Gaming Stack - Mass Effect Petition, Arkane Sale Rumors, GTA 6 PC Hints, Xbox App Boosts, Nier Patch Fiasco",
+      "description": "A Canadian petition to save BioWare, bids for Arkane, a former Rockstar developer on GTA 6 and PC, a faster Xbox PC app, and the Nier: Automata patch that grew to 366 gigabytes.",
+      "file": "episodes/2026-11-06-gaming.mp3",
+      "bytes": 16082541,
+      "duration_seconds": 1005,
+      "published": "2026-11-06T08:06:03-08:00",
+      "stories": [
+        {
+          "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
+          "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
+          "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+          "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+          "source": "IGN"
+        },
+        {
+          "title": "Nintendo is losing a Switch cartridge supplier",
+          "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+          "source": "The Verge Games"
+        },
+        {
+          "title": "Xbox previews two new ways to control cloud games",
+          "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+          "source": "The Verge Games"
+        },
+        {
+          "title": "In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style",
+          "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\"",
+          "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+          "source": "Eurogamer"
+        }
+      ],
+      "tts_engine": "chatterbox-local",
+      "text_model": "openai/gpt-oss-20b"
+    },
+    {
+      "date": "2026-11-06",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Friday, November 6: Cybertruck Sunset, Nvidia Congressional Probe, Alpine Linux Zero-Day",
+      "description": "Tesla announces plans to wind down Cybertruck production as sales falter well below capacity. Congressional leaders summon Nvidia chief executive Jensen Huang over reported Chinese espionage concerns, and a decade-old authentication flaw in Alpine Linux leaves servers open to passwordless root access.",
+      "file": "episodes/2026-11-06.mp3",
+      "bytes": 11069782,
+      "duration_seconds": 692,
+      "published": "2026-11-06T07:24:33-08:00",
+      "stories": [
+        {
+          "title": "Tesla Winding Down Cybertruck Production to Shift Texas Factory to Cybercab",
+          "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Summoned by Congress Over Chinese Espionage Concerns",
+          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Critical 'sshole' Vulnerability Allows SSH Authentication Bypass on Alpine Linux",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Meta, Google, and TikTok Sue California AG to Block Youth Social Media Law",
+          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Fox Formally Closes $22 Billion Acquisition of Roku",
+          "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+          "source": "The Verge"
+        },
+        {
+          "title": "Security Researcher Uncovers Vast iOS Autocomplete Word Suppression List",
+          "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+          "source": "The Verge"
+        },
+        {
+          "title": "US Government Issues Alert Over Cyber Attacks Targeting Industrial Freezers and Storage",
+          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "European Commission Accuses TikTok Recommendation Algorithm of Creating 'Rabbit Hole' Harms",
+          "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic Integrates Read-Only Personal Finance Analysis into Claude",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Perplexity Unveils 'Teammates' AI Agents for Autonomous Workplace Tasks",
+          "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Warby Parker Leak Points to Imminent Debut for Google's Android XR Smart Glasses",
+          "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+          "source": "Engadget"
+        },
+        {
+          "title": "BYD Electric Hypercar Tops 312 MPH to Set Production Speed Record",
+          "url": "https://electrek.co/2026/11/06/byd-yangwang-u9-xtreme-first-production-car-500-km-h/",
+          "source": "Electrek"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-11-05",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Thursday, November 5: Voters Reject Data Centers, Meta Buys Conductor, Discord Rust Rewrite",
+      "description": "Voters across the United States reject data center expansion in local midterm elections, forcing major AI infrastructure shifts. Meta acquires AI coding startup Conductor while Discord ditches Electron for a native Rust desktop client. Plus, Agility Robotics goes public and Amazon partners with Uber Eats.",
+      "file": "episodes/2026-11-05.mp3",
+      "bytes": 10758361,
+      "duration_seconds": 672,
+      "published": "2026-11-05T05:08:51-08:00",
+      "stories": [
+        {
+          "title": "US Voters Reject Local Data Centers in Midterms, Forcing Big Tech and OpenAI Reaction",
+          "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Meta Acquires AI Coding Startup Conductor to Expand Multi-Agent Workflows",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discord Rewriting Desktop App in Rust to Replace Resource-Heavy Electron",
+          "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+          "source": "The Verge"
+        },
+        {
+          "title": "Agility Robotics Goes Public on Nasdaq as First Pure-Play Humanoid Robot Company",
+          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon Swaps Grubhub for Uber Eats to Offer Free Food Delivery to Prime Members",
+          "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
+          "source": "The Verge"
+        },
+        {
+          "title": "Residential Proxies Detected Operating Inside White House Network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Qualcomm Shifts Focus to Data Center Chips Amid Falling Smartphone Processor Sales",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nintendo's Key ROM Chip Supplier Exits Business as Switch 2 Sales Cool",
+          "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Apple Trims Internal AI Budgets and Employee Usage Limits to Control Costs",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "United Airlines Partnering with Spotify and Starlink for Seatback Streaming",
+          "url": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi",
+          "source": "The Verge"
+        },
+        {
+          "title": "Developers Use Claude Code AI to Port Nintendo Switch Games Natively to Apple TV",
+          "url": "https://9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port/",
+          "source": "9to5Mac"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-11-04",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Wednesday, November 4: Postman AI Tools, Binance Heist, and Google Search",
+      "description": "Today on The Daily Stack, Alex and Sam cover Postman's controversial auto-installing AI plugins, the staggering Binance crypto heist details, Google's search mandate tied to AI, and major hardware and software industry updates.",
+      "file": "episodes/2026-11-04.mp3",
+      "bytes": 7705543,
+      "duration_seconds": 482,
+      "published": "2026-11-04T05:09:52-08:00",
+      "stories": [
+        {
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Binance reveals hackers used fake job interviews and an internal AI tool for $6.3B heist",
+          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google links school search access to AI tool adoption, drawing severe pushback",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "AMD hits record revenue and profitability on data center boom",
+          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+          "source": "The Verge"
+        },
+        {
+          "title": "Canva cuts 22 percent of its staff amid slowing growth and its 'hardest year' yet",
+          "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+          "source": "The Verge"
+        },
+        {
+          "title": "Valve changes Steam release rules to handle a massive surge of AI-generated games",
+          "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nexus Mods and Itch.io roll out mandatory AI disclosures to combat generated clutter",
+          "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple previewing iOS and macOS 27.3 brings major Siri AI expansions and Safari updates",
+          "url": "https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Data centers turn to discarded jet engines to bypass grid power shortages",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google dismantles massive botnet secretly running on 1.3 million Android TV boxes",
+          "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "C++26 features spark developer debate as major proposals are rejected",
+          "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-11-03",
+      "episode_type": "bonus",
+      "slug": "gaming",
+      "title": "The Gaming Stack - AI Wars, Zelda Remake, and Control Resonant Boom",
+      "description": "This week the Gaming Stack dives into a surge of low-quality AI titles on itch.io, Anthropic’s clampdown on Claude clones, Xbox COO turbulence, Nintendo’s Ocarina remake launch plans, and Remedy’s revenue spike from Control Resonant.",
+      "file": "episodes/2026-11-03-gaming.mp3",
+      "bytes": 21758017,
+      "duration_seconds": 1360,
+      "published": "2026-11-03T05:29:13-08:00",
+      "stories": [
+        {
+          "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+          "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Anthropic clamps down on Claude’s AI video game clones",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "source": "The Verge Games"
+        },
+        {
+          "title": "Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
+          "source": "IGN"
+        },
+        {
+          "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
+          "url": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+          "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Yakuza Spiritual Successor Gang Of Dragon Seemingly Cancelled As Nagoshi Studio Is Closed",
+          "url": "https://kotaku.com/yakuza-spiritual-successor-gang-of-dragon-seemingly-cancelled-as-nagoshi-studio-is-closed-2000752132",
+          "source": "Kotaku"
+        },
+        {
+          "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+          "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Classic PC strategy game Dune 2 is a ‘holy grail’ re-release but it’s a licensing nightmare, GOG says",
+          "url": "https://www.videogameschronicle.com/news/classic-pc-strategy-game-dune-2-is-a-holy-grail-re-release-but-its-a-licensing-nightmare-gog-says/",
+          "source": "Video Games Chronicle"
+        },
+        {
+          "title": "A fully playable version of Portal prequel F-Stop leaked",
+          "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+          "source": "The Verge Games"
+        },
+        {
+          "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\"",
+          "url": "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+          "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "\"There’s always a night when Rome burns\": South Of Midnight director says that Xbox funding it was \"unsustainable\", at least in hindsight",
+          "url": "https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Footage of a Persona 1 remake has seemingly leaked online",
+          "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+          "source": "Eurogamer"
+        }
+      ],
+      "tts_engine": "chatterbox-local",
+      "text_model": "openai/gpt-oss-20b"
+    },
+    {
+      "date": "2026-11-03",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Tuesday, November 3: Marvell, Apple, and Ubuntu",
+      "description": "Alex and Sam cover Marvell acquiring Lumentum for one hundred fifteen billion dollars, Apple's record fiscal fourth quarter, and the ongoing controversy over unpatched Ubuntu Linux vulnerabilities.",
+      "file": "episodes/2026-11-03.mp3",
+      "bytes": 7467053,
+      "duration_seconds": 467,
+      "published": "2026-11-03T03:09:46-08:00",
+      "stories": [
+        {
+          "title": "Marvell Acquires Lumentum for $115 Billion in Massive Tech Deal",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Astra Demonstrates Self-Improvement by Reading and Writing Qwen Model Weights",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Apple Reports Record Q4 Revenue of $114.5 Billion Despite Rising Memory Costs and Supply Constraints",
+          "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Ubuntu Criticized for Failing to Patch Critical Linux 0-Day RCE Vulnerability for Three Weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Android Partner Banned After Secretly Turning 1.3 Million Set-Top Boxes Into a Botnet",
+          "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple to Mandate 18+ Age Ratings for Dating Apps and AI Companions",
+          "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "OpenAI Launches 'Grid Protectors Program' to Support Local Power Grids Around Data Centers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "source": "The Verge"
+        },
+        {
+          "title": "BMW Expands Advanced Urban Driver Assist to Rival Tesla FSD Starting in 2027",
+          "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX Explores Acquisition of Boost Mobile to Build Direct-to-Cell Carrier Network",
+          "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "New York Times and Media Outlets Sue Brave Browser Over Content Scraping for AI",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple Issues Global Spyware Warnings as Governments Investigate High-Profile Attacks",
+          "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "BYD Sells Record 300,000+ EVs in October as Heavy Electric Trucks Surge in China",
+          "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+          "source": "Electrek"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-11-02",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Monday, November 2: Binance Heist, Flock Cameras, and AI ROI",
+      "description": "Alex and Sam unpack Monday's top tech stories, covering the FBI's attribution of a massive cryptocurrency heist to North Korea, municipal pushback against automated license plate readers, and new economic warnings about corporate artificial intelligence adoption.",
+      "file": "episodes/2026-11-02.mp3",
+      "bytes": 9210042,
+      "duration_seconds": 576,
+      "published": "2026-11-02T03:09:04-08:00",
+      "stories": [
+        {
+          "title": "FBI Attributes Massive $6.3 Billion Binance Crypto Heist to North Korea",
+          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "source": "The Verge"
+        },
+        {
+          "title": "Police Chief Unplugs Cameras After Flock Safety Ignores Contract Cancellation",
+          "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+          "source": "The Verge"
+        },
+        {
+          "title": "Lenovo's 'Encrypted' Fingerprint USB Found to Use Ordinary Unencrypted SD Cards",
+          "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Frontier Airlines Suffers Suspected Data Breach",
+          "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Apollo Economist Warns AI Delivers 'Zero Financial Payoff' to Most Companies",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Europe's Upcoming Battery Passport Set to Transform E-Bike Supply Chains",
+          "url": "https://electrek.co/2026/11/02/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bikes/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Mark Gurman Reports Apple Plans Three New iPad Models for Early Next Year",
+          "url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Anthropic Updates Claude Codebase to Prevent Recreation of Existing Video Games",
+          "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+          "source": "Engadget"
+        },
+        {
+          "title": "AI Agent Swarms in Minecraft Fail to Build Civilization, Drown in Bureaucracy",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Seoul Viosys Begins Production of Rare-Earth-Free White Light Emitters",
+          "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+          "source": "Hacker News"
+        },
+        {
+          "title": "The Agentic Web Arrives as Autonomous Software Navigates the Internet",
+          "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+          "source": "MIT Technology Review"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-11-01",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Sunday, November 1: Touch MacBooks, xAI Lawsuit, Critical Linux Bug",
+      "description": "Today on The Daily Stack, Apple details touch interface features for macOS Golden Gate, a federal judge permits an environmental lawsuit against xAI to proceed, and a critical Linux kernel flaw receives a nine point eight severity rating. Plus, Binance replaces ninety percent of stolen funds following its record-breaking breach, and quick hits cover gaming AI, automated malware triage, and specialized graphics chips.",
+      "file": "episodes/2026-11-01.mp3",
+      "bytes": 7027777,
+      "duration_seconds": 439,
+      "published": "2026-11-01T03:08:55-08:00",
+      "stories": [
+        {
+          "title": "Apple Outlines macOS Touch Optimizations for the First Touchscreen MacBook Pro",
+          "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Judge Allows NAACP Clean Air Act Lawsuit Against xAI Data Center to Move Forward",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Severe TCP Use-After-Free Vulnerability Assigned 9.8 CVSS Rating",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Binance Replenishes 90 Percent of Stolen Assets Following $6.3 Billion Breach",
+          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "source": "The Verge"
+        },
+        {
+          "title": "Xbox Manager Highlights Widespread AI Use in Game Development Before Deleting Posts",
+          "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Emerging Cyberattacks Deploy LLMs to Rank Target Worth Before Executing Exploits",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bolt Graphics Achieves First Power-On Test for Simulation-Focused Zeus GPU",
+          "url": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
+          "source": "Engadget"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-31",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Saturday, October 31: Binance Heist, AI Scrapes, Cursor Hack",
+      "description": "Today on The Daily Stack for Saturday, October 31, 2026, we cover a massive crypto heist at Binance, a new unified protocol for publishers to opt out of AI scraping, a supply chain attack on Anthropic's Cursor extension, and Waymo partnering with Toyota to build factory-integrated robotaxis.",
+      "file": "episodes/2026-10-31.mp3",
+      "bytes": 6260538,
+      "duration_seconds": 391,
+      "published": "2026-10-31T04:08:44-07:00",
+      "stories": [
+        {
+          "title": "North Korean Hackers Steal Record $6.3 Billion in 20-Minute Binance Heist",
+          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Tech Giants Agree on Unified Protocol for Publishers to Opt Out of AI Web Scraping",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic's Verified Cursor Extension Compromised in 12-Hour Supply Chain Attack",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Waymo Partners with Toyota to Factory-Integrate Robotaxis into bZ4X Autonomous EVs",
+          "url": "https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Apple Intelligence Expanding to China Starting with iOS 27.3",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "source": "The Verge"
+        },
+        {
+          "title": "General Motors Ordered to Pay $220 Million for Selling Customer Driving Data to Insurers",
+          "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Google Boots Up Satellite TPU in Space Running Gemma 4 AI Model",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "source": "The Verge"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-30",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Friday, October 30: Binance Hack, Mistral AI, and DoorDash",
+      "description": "Today on The Daily Stack, we cover a massive crypto hack at Binance, Mistral's new open-weight cybersecurity AI, DoorDash acquiring Instacart, and GM's driver data settlement.",
+      "file": "episodes/2026-10-30.mp3",
+      "bytes": 7058488,
+      "duration_seconds": 441,
+      "published": "2026-10-30T04:08:49-07:00",
+      "stories": [
+        {
+          "title": "Binance Hit by Record $6.3 Billion Cryptocurrency Hack",
+          "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Mistral Releases Weights for New Trillion-Parameter Cybersecurity AI Model",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "DoorDash Acquires Instacart in $17 Billion Delivery Merger",
+          "url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/",
+          "source": "Engadget"
+        },
+        {
+          "title": "General Motors Agrees to $220 Million Settlement Over Selling Driver Data",
+          "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+          "source": "The Verge"
+        },
+        {
+          "title": "Reddit Shifts to 'Logged-In Only' Experience as Search Traffic Declines",
+          "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+          "source": "The Verge"
+        },
+        {
+          "title": "Reports Surface of Chinese Spy with Ties to Nvidia CEO Jensen Huang",
+          "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "AI Agent Swarms Successfully Hack Minecraft and Mindustry Environments",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "source": "MIT Technology Review"
+        },
+        {
+          "title": "Rivian Reports Strong Q3 Earnings with R2 as Best-Selling Vehicle",
+          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+          "source": "The Verge"
+        },
+        {
+          "title": "Waymo Partners with Toyota to Bring Autonomous Robotaxis to Japan and the UK",
+          "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Waymo’s Former Autopilot Chief Calls Tesla's Vision-Only Approach a 'Weird Religious Stance'",
+          "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+          "source": "Electrek"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-29",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Thursday, October 29: Touchscreen Mac, Gemini 4 Carbon, and DHS Breach",
+      "description": "Apple debuts its first touchscreen MacBook Pro with a PROLED display, Google launches the powerful Gemini 4 Carbon frontier model, and a massive data breach exposes thousands of Department of Homeland Security personnel records.",
+      "file": "episodes/2026-10-29.mp3",
+      "bytes": 7016260,
+      "duration_seconds": 438,
+      "published": "2026-10-29T04:09:21-07:00",
+      "stories": [
+        {
+          "title": "Apple Announces Touchscreen MacBook Pro with PROLED Display",
+          "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Google Launches Gemini 4 Carbon Frontier Model",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "source": "The Verge"
+        },
+        {
+          "title": "Data Breach Exposes Personal Records of Over 41,000 DHS Employees",
+          "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft Posts Record $92.3 Billion Quarterly Revenue on Strong Cloud Growth",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "source": "The Verge"
+        },
+        {
+          "title": "Qwenputer Runs a Deterministic RISC-V CPU Inside an LLM",
+          "url": "https://divagr.com/blog/qwenputer",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Stack Overflow Questions Drop Below 1,000 Per Month",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "source": "Hacker News"
+        },
+        {
+          "title": "FCC Clears Amazon Leo to Acquire Globalstar for $11.5 Billion",
+          "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Apple's Git Still Trusts Compromised eMudhra Certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Nvidia Releases Nemotron 3.5 Transcribe Open ASR Model",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ford Invests in Massive Unicastings for Upcoming Fathom EV Truck",
+          "url": "https://electrek.co/2026/10/28/ford-fathom-5000-unicastings-tesla-giga-press/",
+          "source": "Electrek"
+        },
+        {
+          "title": "EU Considers First Undersea Cable Link to Greenland Bypassing US",
+          "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+          "source": "Ars Technica"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-28",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Wednesday, October 28: UEFI Flaw, iPhone Duo Cracks, $25B Meta Ruling",
+      "description": "Today on The Daily Stack, a critical bootloader flaw threatens millions of enterprise servers, early iPhone Duo buyers report cracking displays, and Google DeepMind debuts its Genie four world model. Plus, Meta faces a record twenty-five billion dollar penalty, senators battle over secret surveillance rulings, and Delaware proposes letting artificial intelligence run corporations.",
+      "file": "episodes/2026-10-28.mp3",
+      "bytes": 12246339,
+      "duration_seconds": 765,
+      "published": "2026-10-28T04:08:15-07:00",
+      "stories": [
+        {
+          "title": "Critical UEFI Firmware Vulnerability Leaves Millions of Servers Exposed to Bootkits",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Early iPhone Duo Buyers Report Crease Cracks in Apple's First Foldable Display",
+          "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google DeepMind Launches Genie 4 World Model with Real-Time Control and Physics",
+          "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Judge Orders Meta to Pay Record $25 Billion Over User Data Deception",
+          "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+          "source": "The Verge"
+        },
+        {
+          "title": "Senators Accuse US Officials of Hiding Secret Surveillance Court Ruling to Protect Section 702",
+          "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Proposed Delaware Law Would Permit AI Agents to Incorporate and Run Businesses Without Humans",
+          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Parents Sue OpenAI Claiming ChatGPT Coached Teen to Discontinue Seizure Medication",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discord Public Server Messages to Appear in Google Search Results Starting December",
+          "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "CISA Warns Attackers Are Actively Exploiting Critical Flaws in PHP",
+          "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk Limits Ukrainian Military Access to Starlink Over Offensive Drone Strikes",
+          "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+          "source": "The Verge"
+        },
+        {
+          "title": "Waymo Expands Driverless Commercial Footprint by 250 Square Miles Across Five US Cities",
+          "url": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Apple Memory Supplier SK Hynix Warns Chip Shortages Will Keep Hardware Prices Elevated Through 2030",
+          "url": "https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+          "source": "9to5Mac"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-27",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Tuesday, October 27: Anthropic IPO Filing, Microsoft Buyouts, OpenAI Discoveries",
+      "description": "Anthropic officially files for its initial public offering while Microsoft offers voluntary buyouts to tens of thousands of employees. Plus, OpenAI claims new scientific breakthroughs as local opposition to AI data center expansion sweeps the United States.",
+      "file": "episodes/2026-10-27.mp3",
+      "bytes": 11817422,
+      "duration_seconds": 739,
+      "published": "2026-10-27T06:08:32-07:00",
+      "stories": [
+        {
+          "title": "Anthropic Officially Files for IPO, Revealing Soaring Revenue and Safety Governance",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft Offers Voluntary Buyout Packages to Roughly a Quarter of Its Global Workforce",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "OpenAI Partnering with External Academics Following Major Science and Math Discoveries",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Unveils Redesigned iPad Mini with OLED Display and A20 Pro Chip",
+          "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Widespread Local and Political Opposition Unites Across U.S. Over Data Center Expansion",
+          "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+          "source": "The Verge"
+        },
+        {
+          "title": "Cohere Uncovers Suspicious Data Transmission Attempt in Alibaba's Open-Weight Qwen Model",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Highway Cargo Thieves Use GPS Spoofing to Steal $100 Million in Data Center Equipment",
+          "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Apple Refreshes iMac and Entry-Level MacBook Pro with Next-Gen M6 Chips",
+          "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anduril and Qualcomm Partner on 'BlueChip' Laptops with Fully US-Based Manufacturing",
+          "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI Launches GPT-6.1 Terra with Upgraded Computer Use and Faster Speeds",
+          "url": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Instagram Tests 90-Minute Horizontal Videos to Challenge YouTube on Living Room Screens",
+          "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ford Details Sub-$30K Fathom EV Truck Featuring Internal Home Inverter Tech",
+          "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+          "source": "The Verge"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash"
+    },
+    {
+      "date": "2026-10-26",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Monday, October 26: iPhone Duo, Touch MacBooks, and IBM AI",
+      "description": "Today on The Daily Stack, we cover iFixit's teardown of the new Apple iPhone Duo, upcoming OLED touchscreen MacBooks, IBM's push for open-weight AI models, massive LLM price cuts, a surprising medical study on skin cancer diagnosis, and zero-cloud Rust PDF tools.",
+      "file": "episodes/2026-10-26.mp3",
+      "bytes": 8822969,
+      "duration_seconds": 551,
+      "published": "2026-10-26T04:08:44-07:00",
+      "stories": [
+        {
+          "title": "iFixit and early buyers report widespread screen cracking issues with Apple's new iPhone Duo foldable",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple's major overhaul week brings touchscreen OLED MacBook Pros and redesigned iPad minis",
+          "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "IBM CEO endorses open weight models, highlighting shift toward cheap on-premises AI deployment",
+          "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+          "source": "Hacker News"
+        },
+        {
+          "title": "OpenAI and Anthropic slash LLM prices by up to 80 percent, igniting developer discussions on market sustainability",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Decade-old CNN outperforms frontier LLMs for skin cancer diagnosis, study reveals",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News"
+        },
+        {
+          "title": "PaperPilot launches as a zero-cloud, pure-Rust PDF engine featuring WebAssembly and MCP support",
+          "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Moderna and Merck report mRNA cancer vaccine cuts death and recurrence rates by 42 percent",
+          "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+          "source": "Hacker News"
+        },
+        {
+          "title": "XCMG debuts fully autonomous electric terminal tractor for unmanned logistics operations",
+          "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+          "source": "Electrek"
+        },
+        {
+          "title": "France asks ISPs to prepare temporary DNS blocks for major social platforms",
+          "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+          "source": "Hacker News"
+        },
+        {
+          "title": "UC Berkeley math professor sees 'no point' in grading homework due to widespread student AI use",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    },
+    {
+      "date": "2026-10-25",
+      "episode_type": "full",
+      "slug": "",
+      "title": "Sunday, October 25: Capcom Breach, PHP Scare, and AI Bias",
+      "description": "Today on The Daily Stack, we cover a massive data breach at Capcom, critical open-source PHP vulnerabilities that nearly broke the internet, and studies highlighting deep partisan splits in conversational AI models.",
+      "file": "episodes/2026-10-25.mp3",
+      "bytes": 5470648,
+      "duration_seconds": 342,
+      "published": "2026-10-25T04:08:26-07:00",
+      "stories": [
+        {
+          "title": "Capcom Confirms Data Breach Compromising 11.7 Million User Accounts",
+          "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+          "source": "Engadget"
+        },
+        {
+          "title": "Critical PHP Vulnerabilities Expose Web Infrastructure Fragility and Funding Shortfalls",
+          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Study Finds Grok and OpenAI Consistently Split on Partisan Lines in Election Races",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta Faces Escalating Legal Showdown in Brazil Over Alleged Election Bias",
+          "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Pennsylvania Enacts Law Requiring Disclosures on AI-Generated Advertisements",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "source": "The Verge"
+        },
+        {
+          "title": "NHTSA Proposes Cyan Lighting Standards to Identify Autonomous Robotaxis",
+          "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+          "source": "Electrek"
+        },
+        {
+          "title": "Cerebras Begins Deploying Trillion-Parameter AI Models on Wafer-Scale Silicon",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News"
+        }
+      ],
+      "tts_engine": "gemini",
+      "text_model": "gemini-3.5-flash-lite"
+    }
+  ]
+}
